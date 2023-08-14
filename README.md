@@ -1,4 +1,4 @@
-# Awesome Regenerative Agriculture
+# Awesome Regenerative Agriculture 🧑‍🌾
 
 🌾 A curated list of regenerative agriculture related topics.
 
