@@ -16,7 +16,7 @@ and biodiversity.
 
 ## Links
 
-- [Gut and Bösel](https://www.gutundboesel.org/en/farm-rebellion/)
+- [Gut&Bösel](https://www.gutundboesel.org/en/)
 - [Kiss the Ground](https://kisstheground.com/)
 
 ## Entertainment
