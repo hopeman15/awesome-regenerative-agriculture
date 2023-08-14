@@ -1,14 +1,22 @@
 # Awesome Regenerative Agriculture 🧑‍🌾
 
-🌾 A curated list of regenerative agriculture related topics.
+A curated list of regenerative agriculture related topics.
 
-## What's Regenerative Agriculture?
+## What's Regenerative Agriculture? 🌾
 
 Regenerative agriculture embodies a flexible farming approach incorporating
 established and scientifically supported techniques. This method prioritizes the
 well-being of soil and crops, intending to enhance yield
 durability while also positively influencing carbon levels, water conservation,
 and biodiversity.
+
+## Contents 🌽
+
+- [Books](#books-)
+- [Courses](#courses-)
+- [Entertainment](#entertainment-)
+- [Holistic Management](#holistic-management-)
+- [Links](#links-)
 
 ## Books 📚
 
