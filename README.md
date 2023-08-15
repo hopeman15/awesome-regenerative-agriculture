@@ -1,5 +1,7 @@
 # Awesome Regenerative Agriculture 🧑‍🌾
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of regenerative agriculture topics and resources.
 
 ## What's Regenerative Agriculture? 🌾
