@@ -1,6 +1,7 @@
 # Awesome Regenerative Agriculture 🧑‍🌾
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 A curated list of regenerative agriculture topics and resources.
 
