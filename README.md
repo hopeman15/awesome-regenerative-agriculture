@@ -1,6 +1,6 @@
 # Awesome Regenerative Agriculture 🧑‍🌾
 
-A curated list of regenerative agriculture related topics.
+A curated list of regenerative agriculture topics and resources.
 
 ## What's Regenerative Agriculture? 🌾
 
