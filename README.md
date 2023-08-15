@@ -16,7 +16,7 @@ and biodiversity.
 - [Courses](#courses-)
 - [Entertainment](#entertainment-)
 - [Holistic Management](#holistic-management-)
-- [Links](#links-)
+- [Regeneration](#regeneration-)
 
 ## Books 📚
 
@@ -35,7 +35,7 @@ and biodiversity.
 
 - [The Savory Institute](https://savory.global/)
 
-## Links 🔗
+## Regeneration 🌱
 
 - [Gut&Bösel](https://www.gutundboesel.org/en/)
 - [Kiss the Ground](https://kisstheground.com/)
