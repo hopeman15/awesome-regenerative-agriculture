@@ -44,4 +44,12 @@ jobs:
       - uses: hadolint/hadolint-action@v3.1.0
         with:
           dockerfile: Dockerfile
-
+  awesome-lint:
+    name: Awesome Lint 🕶️
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    needs: cancel-previous
+    steps:
+      - uses: actions/checkout@v3
+      - uses: max/awesome-lint@v2.0.0
