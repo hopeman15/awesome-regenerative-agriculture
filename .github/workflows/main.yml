@@ -32,3 +32,16 @@ jobs:
       - uses: DavidAnson/markdownlint-cli2-action@v11
         with:
           globs: '**/*.md'
+
+  lint-docker:
+    name: Lint Docker 🐳
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    needs: cancel-previous
+    steps:
+      - uses: actions/checkout@v3
+      - uses: hadolint/hadolint-action@v3.1.0
+        with:
+          dockerfile: Dockerfile
+
