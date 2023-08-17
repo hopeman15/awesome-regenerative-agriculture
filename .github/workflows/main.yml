@@ -1,4 +1,4 @@
-name: Regenerative Agriculture 🧑‍🌾
+name: Regenerative Agriculture 🌾
 
 on:
   pull_request:
@@ -22,7 +22,7 @@ jobs:
           access_token: ${{ secrets.GITHUB_TOKEN }}
 
   lint:
-    name: Lint
+    name: Lint 🧑‍🌾
     permissions:
       contents: read
     runs-on: ubuntu-latest
@@ -32,3 +32,24 @@ jobs:
       - uses: DavidAnson/markdownlint-cli2-action@v11
         with:
           globs: '**/*.md'
+
+  lint-docker:
+    name: Lint Docker 🐳
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    needs: cancel-previous
+    steps:
+      - uses: actions/checkout@v3
+      - uses: hadolint/hadolint-action@v3.1.0
+        with:
+          dockerfile: Dockerfile
+  awesome-lint:
+    name: Awesome Lint 🕶️
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    needs: cancel-previous
+    steps:
+      - uses: actions/checkout@v3
+      - uses: max/awesome-lint@v2.0.0
