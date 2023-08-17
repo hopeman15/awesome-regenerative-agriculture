@@ -1,4 +1,4 @@
-name: Regenerative Agriculture 🧑‍🌾
+name: Regenerative Agriculture 🌾
 
 on:
   pull_request:
@@ -22,7 +22,7 @@ jobs:
           access_token: ${{ secrets.GITHUB_TOKEN }}
 
   lint:
-    name: Lint
+    name: Lint 🧑‍🌾
     permissions:
       contents: read
     runs-on: ubuntu-latest
