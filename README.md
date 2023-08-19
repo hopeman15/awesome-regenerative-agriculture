@@ -22,9 +22,9 @@ positively influencing carbon levels, water conservation, and biodiversity.
 
 ## Books
 
-- [Dirt to Soil](https://www.goodreads.com/book/show/40125546-dirt-to-soil) - Provides
-  incites into how the Brown family went from conventional framing to
-  regenerative agriculture production.
+- [Dirt to Soil](https://www.goodreads.com/book/show/40125546-dirt-to-soil) - Follow
+  the Brown family's transition from conventional farming to regenerative
+  agriculture production.
 
 ## Courses
 
