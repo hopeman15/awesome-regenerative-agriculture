@@ -23,6 +23,8 @@ positively influencing carbon levels, water conservation, and biodiversity.
 
 ## Agroforestry
 
+- [Agroforestry Net](https://www.agroforestry.org/) - Accessing information,
+  resources, and community engagement focused on agroforestry.
 - [The Agroforestry Research Trust](https://www.agroforestry.co.uk/) - Learn
   about agroforestry and research initiatives.
 
