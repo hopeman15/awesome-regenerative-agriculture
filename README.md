@@ -7,6 +7,7 @@ A curated list of awesome regenerative agriculture topics and resources.
 ## Contents
 
 - [Introduction](#introduction)
+- [Agroforestry](#agroforestry)
 - [Books](#books)
 - [Courses](#courses)
 - [Entertainment](#entertainment)
@@ -19,6 +20,11 @@ Regenerative agriculture embodies a flexible farming approach incorporating
 established and scientifically supported techniques. This method prioritizes the
 well-being of soil and crops, intending to enhance yield durability while
 positively influencing carbon levels, water conservation, and biodiversity.
+
+## Agroforestry
+
+- [The Agroforestry Research Trust](https://www.agroforestry.co.uk/) - Learn
+  about agroforestry and research initiatives.
 
 ## Books
 
