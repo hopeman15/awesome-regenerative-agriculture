@@ -1,7 +1,10 @@
-PHONY: build lint lint-docker lint-md run
+PHONY: build check-markdown lint lint-docker lint-md run
 
 build:
 	docker build --tag awesome-lint .
+
+check-markdown: lint-md
+	npx awesome-lint
 
 lint: lint-docker lint-md
 
