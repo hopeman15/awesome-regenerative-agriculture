@@ -53,6 +53,8 @@ positively influencing carbon levels, water conservation, and biodiversity.
 
 ## Regeneration
 
+- [Green Cover](https://greencover.com/) - Discover how cover crops can help
+  cultivate healthy soil.
 - [Gut&Bösel](https://www.gutundboesel.org/en/) - German farming operation
   dedicated to regenerative agricultural practices.
 - [Kiss the Ground](https://kisstheground.com/) - A Nonprofit raising awareness
