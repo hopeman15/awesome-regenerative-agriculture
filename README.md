@@ -2,24 +2,21 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
-A curated list of awesome regenerative agriculture topics and resources.
+> A curated list of awesome regenerative agriculture topics and resources.
+
+Regenerative agriculture embodies a flexible farming approach incorporating
+established and scientifically supported techniques. This method prioritizes the
+well-being of soil and crops, intending to enhance yield durability while
+positively influencing carbon levels, water conservation, and biodiversity.
 
 ## Contents
 
-- [Introduction](#introduction)
 - [Agroforestry](#agroforestry)
 - [Books](#books)
 - [Courses](#courses)
 - [Entertainment](#entertainment)
 - [Holistic Management](#holistic-management)
 - [Regeneration](#regeneration)
-
-## Introduction
-
-Regenerative agriculture embodies a flexible farming approach incorporating
-established and scientifically supported techniques. This method prioritizes the
-well-being of soil and crops, intending to enhance yield durability while
-positively influencing carbon levels, water conservation, and biodiversity.
 
 ## Agroforestry
 
