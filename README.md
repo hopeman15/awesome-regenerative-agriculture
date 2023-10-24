@@ -16,6 +16,7 @@ positively influencing carbon levels, water conservation, and biodiversity.
 - [Courses](#courses)
 - [Entertainment](#entertainment)
 - [Holistic Management](#holistic-management)
+- [Podcasts](#podcasts)
 - [Regeneration](#regeneration)
 
 ## Agroforestry
@@ -47,6 +48,11 @@ positively influencing carbon levels, water conservation, and biodiversity.
 
 - [The Savory Institute](https://savory.global/) - Global network regenerating
   grasslands with holistic management.
+
+## Podcasts
+
+- [Regenerative Agriculture Podcast](https://open.spotify.com/show/14s0owdUUxjTYUeNXpWnv8) - A
+  podcast on Spotify by John Kempf.
 
 ## Regeneration
 
