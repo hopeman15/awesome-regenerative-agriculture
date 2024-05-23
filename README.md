@@ -1,6 +1,4 @@
-# Awesome Regenerative Agriculture 🧑‍🌾 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+# Awesome Regenerative Agriculture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome regenerative agriculture topics and resources.
 
@@ -14,7 +12,7 @@ positively influencing carbon levels, water conservation, and biodiversity.
 - [Agroforestry](#agroforestry)
 - [Books](#books)
 - [Courses](#courses)
-- [Entertainment](#entertainment)
+- [Documentaries](#documentaries)
 - [Holistic Management](#holistic-management)
 - [Podcasts](#podcasts)
 - [Regeneration](#regeneration)
@@ -37,7 +35,7 @@ positively influencing carbon levels, water conservation, and biodiversity.
 - [Holistic Management](https://savoryinstitute.teachable.com/courses) - Learn
   about holistic management practices.
 
-## Entertainment
+## Documentaries
 
 - [Farm Rebellion](https://www.imdb.com/title/tt27671935/) - Follow a German
   farmer and his team on their journey with regenerative agriculture practices.
