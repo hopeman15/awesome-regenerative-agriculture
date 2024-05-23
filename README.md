@@ -51,6 +51,8 @@ positively influencing carbon levels, water conservation, and biodiversity.
 
 - [Regenerative Agriculture Podcast](https://open.spotify.com/show/14s0owdUUxjTYUeNXpWnv8) - A
   podcast on Spotify by John Kempf.
+- [The Market Gardener Podcast](https://open.spotify.com/show/05AmavfuAHouFeub9QoWdB) - A
+  podcast on Spotify by Jean-Martin Fortier and Chris Moran.
 
 ## Regeneration
 
