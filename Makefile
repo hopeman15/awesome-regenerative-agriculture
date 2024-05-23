@@ -1,4 +1,4 @@
- build:
+build:
 	docker build --tag awesome-lint .
 .PHONY: build
 
