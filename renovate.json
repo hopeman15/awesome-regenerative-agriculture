@@ -3,16 +3,5 @@
   "extends": [
     "config:base"
   ],
-  "labels": [
-    "dependencies"
-  ],
-  "packageRules": [
-    {
-      "matchUpdateTypes": [
-        "minor",
-        "patch"
-      ],
-      "automerge": true
-    }
-  ]
+  "labels": ["dependencies"]
 }
