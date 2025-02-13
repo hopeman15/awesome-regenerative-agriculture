@@ -29,6 +29,8 @@ positively influencing carbon levels, water conservation, and biodiversity.
 - [Dirt to Soil](https://www.goodreads.com/book/show/40125546-dirt-to-soil) - Follow
   the Brown family's transition from conventional farming to regenerative
   agriculture production.
+- [The Market Gardener](https://www.goodreads.com/book/show/18406251-the-market-gardener) - Learn
+  about successful small-scale organic farming.
 
 ## Courses
 
