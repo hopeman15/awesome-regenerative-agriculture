@@ -1,4 +1,4 @@
-FROM node@sha256:d1db2ecd11f417ab2ff4fef891b4d27194c367d101f9b9cd546a26e424e93d31
+FROM node@sha256:8369522c586f6cafcf77e44630e7036e4972933892f8b45e42d9baeb012d521c
 SHELL [ "/usr/bin/sh", "-eux", "-c" ]
 
 # Create and define the node_modules's cache directory.
