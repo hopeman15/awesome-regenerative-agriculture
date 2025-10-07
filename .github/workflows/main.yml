@@ -41,7 +41,7 @@ jobs:
     needs: cancel-previous
     steps:
       - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5
-      - uses: hadolint/hadolint-action@v3.2.0
+      - uses: hadolint/hadolint-action@v3.3.0
         with:
           dockerfile: Dockerfile
 
